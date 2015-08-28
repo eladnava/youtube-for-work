@@ -1,6 +1,6 @@
 ﻿{
     "name": "YouTube for Work",
-    "description": "A chrome extension that makes it possible to listen to music videos on YouTube™ without getting fired for their graphic content. This extension hides the currently playing video and blurs search thumbnails automagically, so you can listen to your favourite music at work safely.",
+    "description": "A chrome extension that makes it possible to listen to music videos on YouTube™ without getting fired for their graphic content.",
     "manifest_version": 2,
     "version": "1.0",
     "icons":
