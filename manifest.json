@@ -2,7 +2,7 @@
     "name": "YouTube for Work",
     "description": "A chrome extension that makes it possible to listen to music videos on YouTube™ without getting fired for their graphic content.",
     "manifest_version": 2,
-    "version": "1.0",
+    "version": "1.1",
     "icons":
     {
         "16": "assets/img/icon16.png",
