@@ -8,3 +8,7 @@ A chrome extension that makes it possible to listen to music videos on YouTubeâ„
 ![alt tag](https://raw.github.com/eladnava/youtube-for-work/master/assets/img/preview.png)
 
 https://chrome.google.com/webstore/detail/youtube-for-work/aoaikapjpbfpaigdbckfgafpbmekllmh
+
+License
+--
+Apache 2.0
