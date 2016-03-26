@@ -1,5 +1,4 @@
-YouTube™ for Work
-=====================
+# YouTube™ for Work
 
 [![Join the chat at https://gitter.im/eladnava/youtube-for-work](https://badges.gitter.im/eladnava/youtube-for-work.svg)](https://gitter.im/eladnava/youtube-for-work?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -9,6 +8,6 @@ A chrome extension that makes it possible to listen to music videos on YouTube�
 
 https://chrome.google.com/webstore/detail/youtube-for-work/aoaikapjpbfpaigdbckfgafpbmekllmh
 
-License
---
+## License
+
 Apache 2.0
