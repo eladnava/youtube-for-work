@@ -1,18 +1,15 @@
-function main()
-{
-	// Define video & thumbnail HTML element classes
-	var videoClasses = '.html5-video-container';
-	var thumbnailClasses = '.yt-uix-simple-thumb-wrap, .yt-thumb img, .ytp-thumbnail-overlay, .pl-header-thumb';
+function main() {
+    // Define video & thumbnail HTML element classes
+    var videoClasses = '.html5-video-container';
+    var thumbnailClasses = '.yt-uix-simple-thumb-wrap, .yt-thumb img, .ytp-thumbnail-overlay, .pl-header-thumb';
 
     // Add transition for the blur effect
-    $(thumbnailClasses).css('-webkit-transition','-webkit-filter ease-in-out 0.35s');
+    $(thumbnailClasses).css('-webkit-transition', '-webkit-filter ease-in-out 0.35s');
 
     // Get enabled flag
-    chrome.storage.local.get('enabled', function(result)
-    {
+    chrome.storage.local.get('enabled', function (result) {
         // Extension enabled?
-        if ( result.enabled == false )
-        {
+        if (result.enabled == false) {
             // Hide HTML5 video player element
             $(videoClasses).show();
 
